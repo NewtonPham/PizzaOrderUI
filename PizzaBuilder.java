@@ -1,4 +1,4 @@
-
+// This is starter code for Lab10, SP2022, CSc1302, Dr. William Johnson
 package lab10;
 
 import javax.swing.*;
